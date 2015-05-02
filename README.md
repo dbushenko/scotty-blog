@@ -15,6 +15,7 @@ Technologies used:
 
 ## Authentication
 User: dim
+
 Password: dim
 
 Author: Dmitry Bushenko (d.bushenko@gmail.com)
