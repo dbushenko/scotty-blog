@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This is an example of a REST JSON server for simple blog.
 
@@ -13,7 +13,7 @@ Technologies used:
 * `wai-extra` for basic authentication
 * `Warp` as webserver
 
-# Authentication
+## Authentication
 User: dim
 Password: dim
 
