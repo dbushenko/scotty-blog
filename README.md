@@ -13,4 +13,8 @@ Technologies used:
 * `wai-extra` for basic authentication
 * `Warp` as webserver
 
+# Authentication
+User: dim
+Password: dim
+
 Author: Dmitry Bushenko (d.bushenko@gmail.com)
